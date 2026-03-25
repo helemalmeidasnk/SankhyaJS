@@ -256,7 +256,7 @@
 
                 /* Classe com as configuracoes de processamento de strings de internacionalizacao */
                     class Runner {
-                        constructor (SkI18nService, SkWorkspace) {
+                        constructor (SkI18nService, SkWorkspace, MGEParameters) {
 
                             SkWorkspace.unlockSwitchApp ();
 
